@@ -6,8 +6,9 @@ Olá a todos, sejam muito bem vindos ao projeto **Desafio DIO / NTT Data - Ssite
 ## 🔨 Funcionalidade
 
 O sistema será desenvolvido para um banco que busca monetizar suas operações. Durante o desafio, você terá a chance de aplicar seus conhecimentos em programação Python e criar um sistema funcional que simule as operações bancárias. 
-  
-![](./assets/screenshot.png)
+
+![](./img/code.png)  
+![](./img/bank_system.png)
 
 
 ## 🚀 Tecnologias utilizadas
@@ -26,7 +27,7 @@ Clone este repositório via Bash, usando:
 
 ~~~~ bash
 
-git  clone  https://github.com/hugopassosdev/sistema-banco-python.git
+git  clone  https://github.com/hugopassosdev/bank-system-python.git
 
 ~~~~
 
@@ -34,7 +35,7 @@ git  clone  https://github.com/hugopassosdev/sistema-banco-python.git
 
 ~~~~ bash
 
-git  clone  git@github.com:hugopassosdev/sistema-banco-python.git
+git  clone  git@github.com:hugopassosdev/bank-system-python.git
 
 ~~~~
 
@@ -42,7 +43,7 @@ git  clone  git@github.com:hugopassosdev/sistema-banco-python.git
 
 ~~~~ bash
 
-gh repo clone hugopassosdev/sistema-banco-python
+gh repo clone hugopassosdev/bank-system-python
 
 ~~~~
 
